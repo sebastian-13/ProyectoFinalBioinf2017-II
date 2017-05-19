@@ -1,6 +1,7 @@
 #Avances 3
 =====================
 
+Querido diario en esta ocación decidí organizar las cosas por partes para tener las ideas claras en mi cabeza. En segunda instancia  acompañado de cada uno de los items que viene a continuación hay un archivo tipo [README](https://github.com/sebastian-13/ProyectoFinalBioinf2017-II/blob/master/README.md) para darle orden consistencia al presente proyecto bioinformático 
 
 1. INTRODUCCIÓN
 --------------------
